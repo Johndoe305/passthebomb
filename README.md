@@ -1,0 +1,2 @@
+# passthebomb
+Scripts for roblox 
